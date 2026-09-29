@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SentryPrimies
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sentryprimies on discord
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
+How to reach me @sentryprimies on discord
 
 
 SentryPrimies/SentryPrimies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
